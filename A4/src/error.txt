@@ -1,0 +1,1 @@
+entrada.txt (El sistema no puede encontrar el archivo especificado)
