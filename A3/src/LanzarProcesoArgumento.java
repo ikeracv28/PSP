@@ -4,9 +4,11 @@ public class LanzarProcesoArgumento {
             // Nombre del archivo que se abrirá con el Bloc de notas
             String archivo = "documento.txt";
 
+            ProcessBuilder processBuilder = new ProcessBuilder("notepad.exe", archivo);
+            processBuilder.start();
             // Ejecuta el Bloc de notas (notepad.exe) y le pasa el archivo como argumento
             // Esto abrirá 'documento.txt' en el Bloc de notas
-            Process proceso = Runtime.getRuntime().exec("notepad.exe " + archivo);
+            // Process proceso = Runtime.getRuntime().exec("notepad.exe " + archivo);
 
             // Mensaje informativo indicando que el proceso fue lanzado
             System.out.println("Proceso lanzado: bloc de notas " + archivo);
