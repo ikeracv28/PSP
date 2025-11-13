@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EjemploClaseHilos">
         <activity
-            android:name=".MainActivity"
+            android:name=".PaginaRegistro"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
