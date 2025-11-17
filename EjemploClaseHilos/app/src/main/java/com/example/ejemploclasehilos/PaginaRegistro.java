@@ -31,6 +31,8 @@ public class PaginaRegistro extends AppCompatActivity {
 
     Button botonCrearCuenta;
 
+    int puntuacion = 0;
+
 
 
 
@@ -62,6 +64,7 @@ public class PaginaRegistro extends AppCompatActivity {
                 // 1. Leer lo que ha escrito el usuario en los EditText
                 String nuevoNombreUsuario = nombreRegistro.getText().toString();
                 String nuevaContraseñaEscrita = contraseñaRegistro.getText().toString();
+
 
                 if (nuevoNombreUsuario.isEmpty() || nuevaContraseñaEscrita.isEmpty()) {
                     Toast.makeText(PaginaRegistro.this,
@@ -108,7 +111,9 @@ public class PaginaRegistro extends AppCompatActivity {
                             String nombreBD = split[0];
 
                             // y despues del punto y cooma en contraseña
-                            //String passBD = split[1];
+                            String passBD = split[1];
+
+                            //puntuacion = Integer.parseInt(split[2]);
 
                             // Comparamos con lo escrito por el usuario, y si coincide
                             if (nuevoNombreUsuario.equals(nombreBD)) {
@@ -135,7 +140,14 @@ public class PaginaRegistro extends AppCompatActivity {
                         } else if (!usuarioYaRegistrado) {
                             // si el usuario no existe lo creamos
                             DatabaseReference myRef = usuarioRef.push();
-                            myRef.setValue(nuevoNombreUsuario + ";" + nuevaContraseñaEscrita);
+                            String usuarioId = myRef.getKey(); // ← ID del usuario en Firebase
+
+                            int puntuacionInicial = 0;
+
+
+                            myRef.setValue(nuevoNombreUsuario + ";" + nuevaContraseñaEscrita + ";" + puntuacionInicial);
+
+
 
                             Toast.makeText(PaginaRegistro.this,
                                     "Registro completado con exito",
@@ -144,8 +156,11 @@ public class PaginaRegistro extends AppCompatActivity {
                             Intent i = new Intent(PaginaRegistro.this, MainActivity2.class);
 
                             // esto es para pasarle estos valores a la siguiente pantalla
+                            i.putExtra("usuarioId",usuarioId);
                             i.putExtra("Usuario", nuevoNombreUsuario);
-                            //i.putExtra("Contraseña", contrasenaEscrita);
+                            i.putExtra("Contraseña", nuevaContraseñaEscrita);
+                            i.putExtra("Puntuacion", puntuacionInicial);
+
                             startActivity(i);
                         }
                     }

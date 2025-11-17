@@ -30,6 +30,10 @@ public class MainActivity1 extends AppCompatActivity {
     EditText nombreUsuario;
     EditText passwordUsuario;
 
+    int puntuacion;
+
+    String usuarioId = null;
+
     //int contador = 1;
 
     @Override
@@ -76,6 +80,10 @@ public class MainActivity1 extends AppCompatActivity {
         botonRegistro = findViewById(R.id.botonRegistro);
 
 
+
+
+
+
         botonRegistro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -108,6 +116,7 @@ public class MainActivity1 extends AppCompatActivity {
                         // dataSnapshot contiene TODOS los hijos: ID1, ID2, ID3...
                         for (DataSnapshot hijo : dataSnapshot.getChildren()) {
 
+
                             // Esto recoge cada string "Nombre;Pass"
                             String valor = hijo.getValue(String.class);
 
@@ -118,7 +127,7 @@ public class MainActivity1 extends AppCompatActivity {
                             String[] split = valor.split(";");
 
                             // y con esto comporbamos que hay dos partes
-                            if (split.length < 2) continue;
+                            if (split.length < 3) continue;
 
                             // aqui gaurdamos la primera parte, antes del punto y coma en nombre
                             String nombreBD = split[0];
@@ -126,12 +135,18 @@ public class MainActivity1 extends AppCompatActivity {
                             // y despues del punto y cooma en contraseña
                             String passBD   = split[1];
 
+                            puntuacion = Integer.parseInt(split[2]);
+
                             // Comparamos con lo escrito por el usuario, y si coincide
                             if (usuarioEscrito.equals(nombreBD) &&
                                     contrasenaEscrita.equals(passBD)) {
 
                                 // cambiamos el login a true y salimos del bucle
                                 loginCorrecto = true;
+
+                                //para guarduar el id del nodo
+                                usuarioId = hijo.getKey();
+
                                 break; // ya hemos encontrado al usuario
                             }
                         }
@@ -144,8 +159,11 @@ public class MainActivity1 extends AppCompatActivity {
 
                             Intent i = new Intent(MainActivity1.this, MainActivity2.class);
                             // esto es para pasarle estos valores a la siguiente pantalla
+                            i.putExtra("usuarioId", usuarioId);
                             i.putExtra("Usuario", usuarioEscrito);
-                            //i.putExtra("Contraseña", contrasenaEscrita);
+                            i.putExtra("Contraseña", contrasenaEscrita);
+                            i.putExtra("Puntuacion", puntuacion);
+
                             startActivity(i);
                         } else {
                             Toast.makeText(MainActivity1.this,
