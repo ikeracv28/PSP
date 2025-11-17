@@ -1,0 +1,14 @@
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.deps.json
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.runtimeconfig.json
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.dll
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.pdb
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.AssemblyInfoInputs.cache
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.AssemblyInfo.cs
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.csproj.CoreCompileInputs.cache
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.dll
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\refint\CanicasHijo.dll
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.pdb
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.genruntimeconfig.cache
+C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\ref\CanicasHijo.dll
