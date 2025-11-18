@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
+      "projectUniqueName": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
       "projectName": "CanicasPadre",
-      "projectPath": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
+      "projectPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
       "packagesPath": "C:\\Users\\ikera\\.nuget\\packages\\",
-      "outputPath": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\obj\\",
+      "outputPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

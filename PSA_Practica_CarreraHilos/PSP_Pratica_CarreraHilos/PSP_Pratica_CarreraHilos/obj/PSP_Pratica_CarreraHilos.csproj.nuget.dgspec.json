@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {}
+    "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {}
   },
   "projects": {
-    "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {
+    "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
+        "projectUniqueName": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
         "projectName": "PSP_Pratica_CarreraHilos",
-        "projectPath": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
+        "projectPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
         "packagesPath": "C:\\Users\\ikera\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorio\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\obj\\",
+        "outputPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

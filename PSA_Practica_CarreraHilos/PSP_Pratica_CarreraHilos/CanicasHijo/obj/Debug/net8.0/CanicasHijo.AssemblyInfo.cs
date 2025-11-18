@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanicasHijo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2834822d5df8243fa065671b70559c4debf5c30")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanicasHijo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanicasHijo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,6 +22,7 @@ namespace CanicasHijo
 
             for (int i = 0; i < numCanicas; i++)
             {
+                // creamos un id unico para cada canica
                 int idCanica = i + 1;
                 int indice = i;
 
@@ -37,7 +38,8 @@ namespace CanicasHijo
 
                     while (posicion < 100)
                     {
-                        posicion += rnd.Next(1, 6); // avanza de 1 a 5
+                        int avance = Random.Shared.Next(1, 6);
+                        posicion += avance; // avanza de 1 a 5
                         Thread.Sleep(10); // simula trabajo
                     }
 
@@ -55,9 +57,13 @@ namespace CanicasHijo
 
             // Imprimimos resultados EN FORMATO SIMPLE para que lo lea el proceso padre
             // Formato: pista;canica;tiempo
+            //itera sobre cada canica de la pista, repite por tantos numeros de canicas hay
             for (int i = 0; i < numCanicas; i++)
             {
+                // aparte del indice de cada canica, le asignamos un indice.
                 int idCanica = i + 1;
+
+     
                 Console.WriteLine($"{pista};{idCanica};{tiempos[i]}");
             }
         }

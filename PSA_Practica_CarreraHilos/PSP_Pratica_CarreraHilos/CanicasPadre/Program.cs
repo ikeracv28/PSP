@@ -14,7 +14,7 @@ namespace CanicasPadre
             int canicasPorPista = 3;
 
             // Archivo .exe del proyecto hijo
-            string exeHijo = @"C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe";
+            string exeHijo = @"C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe";
 
             // Aquí guardaremos TODOS los resultados
             List<Resultado> lista = new List<Resultado>();
@@ -31,17 +31,20 @@ namespace CanicasPadre
                 // Preparamos los argumentos para el hijo
                 string argumentos = $"{pista} {canicasPorPista}";
 
+                // Configuramos el proceso hijo
                 ProcessStartInfo psi = new ProcessStartInfo();
-                psi.FileName = exeHijo;
-                psi.Arguments = argumentos;
-                psi.UseShellExecute = false;
-                psi.RedirectStandardOutput = true;
+                psi.FileName = exeHijo; // Especifica el archivo del ejecutable del hijo
+                psi.Arguments = argumentos; // Pasa los argumentos preparados al hijo
+                psi.UseShellExecute = false; // No usa el shell del sistema, lo que permite redirigir la salida
+                psi.RedirectStandardOutput = true; // Redirige la salida estándar para leerla en el padre
+
 
                 // Lanzamos el proceso hijo (la pista)
                 Process p = Process.Start(psi);
 
                 // Leemos lo que escribe el hijo
                 string salida = p.StandardOutput.ReadToEnd();
+                // esperamos a que termine de ejecutarse
                 p.WaitForExit();
 
 
@@ -52,9 +55,10 @@ namespace CanicasPadre
                 string[] lineas = salida.Split('\n');
                 foreach (string l in lineas)
                 {
+                    // si la linea esta vacia, seguimos
                     if (string.IsNullOrWhiteSpace(l)) continue;
 
-                    // Formato: pista;canica;tiempo
+                    // creamos lissta partes, y cada vez que encuentre; es una parte
                     string[] partes = l.Split(';');
 
                     lista.Add(new Resultado
