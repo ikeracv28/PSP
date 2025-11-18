@@ -41,6 +41,11 @@ public class MainActivity2 extends AppCompatActivity {
 
     DatabaseReference usuarioRef;
 
+    TextView ranking1;
+    TextView ranking2;
+    TextView ranking3;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -81,6 +86,14 @@ public class MainActivity2 extends AppCompatActivity {
         // para mostrar la puntuacion por pantalla.
         mostrarPuntuacion = findViewById(R.id.mostrarPuntuacion);
         mostrarPuntuacion.setText(String.valueOf(puntuacion));
+
+        ranking1 = findViewById(R.id.ranking1);
+
+        ranking2 = findViewById(R.id.ranking2);
+
+        ranking3 = findViewById(R.id.ranking3);
+
+
 
         botonJuego.setOnClickListener(new View.OnClickListener() {
 
@@ -142,20 +155,23 @@ public class MainActivity2 extends AppCompatActivity {
                             lista.add(new Usuario(nombre, puntos));
                         }
 
-                        // Ahora enseñamos los 3 primeros en pantalla (si existen)
+                        // para odenar de mayor a menor
+                        Collections.sort(lista, (u1, u2) -> u2.puntuacion - u1.puntuacion);
+
+                        // ahora enseñamos los 3 primeros en pantalla (si existen)
                         if (lista.size() > 0) {
                             Usuario u1 = lista.get(0); // El primero de la lista (más puntos)
-                            txtTop1.setText("1º " + u1.nombre + " - " + u1.puntuacion + " pts");
+                            ranking1.setText("1º " + u1.nombre + " - " + u1.puntuacion + " pts");
                         }
 
                         if (lista.size() > 1) {
                             Usuario u2 = lista.get(1); // Segundo en puntos
-                            txtTop2.setText("2º " + u2.nombre + " - " + u2.puntuacion + " pts");
+                            ranking2.setText("2º " + u2.nombre + " - " + u2.puntuacion + " pts");
                         }
 
                         if (lista.size() > 2) {
                             Usuario u3 = lista.get(2); // Tercer puesto
-                            txtTop3.setText("3º " + u3.nombre + " - " + u3.puntuacion + " pts");
+                            ranking3.setText("3º " + u3.nombre + " - " + u3.puntuacion + " pts");
                         }
                     }
 
