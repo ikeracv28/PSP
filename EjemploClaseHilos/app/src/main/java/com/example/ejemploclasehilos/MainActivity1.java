@@ -174,7 +174,7 @@ public class MainActivity1 extends AppCompatActivity {
 
 //                        }
 //
-//                        // 4. Obtener lo que hay guardado en la BBDD
+//                        //  Obtener lo que hay guardado en la BBDD
 //                        String nombre = dataSnapshot.child("nombre").getValue(String.class);
 //                        String [] split = nombre.split(";");
 //                        String nombreBD = split[0];
@@ -193,7 +193,7 @@ public class MainActivity1 extends AppCompatActivity {
 //                            return;
 //                        }
 //
-//                        // 5. Comparar lo que ha escrito el usuario con lo de Firebase
+//                        // Comparar lo que ha escrito el usuario con lo de Firebase
 //                        if (usuarioEscrito.equals(nombreBD) && contrasenaEscrita.equals(passBD)) {
 //                            // LOGIN CORRECTO
 //                            Toast.makeText(MainActivity1.this,

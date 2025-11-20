@@ -61,7 +61,7 @@ public class PaginaRegistro extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                // 1. Leer lo que ha escrito el usuario en los EditText
+                //  Leer lo que ha escrito el usuario en los EditText
                 String nuevoNombreUsuario = nombreRegistro.getText().toString();
                 String nuevaContraseñaEscrita = contraseñaRegistro.getText().toString();
 
@@ -79,13 +79,13 @@ public class PaginaRegistro extends AppCompatActivity {
 
 
                 // comprobacion de que no crear un usuario que ya existe
-                // 2. Referencia al nodo "usuario" en la BBDD
+                //  Referencia al nodo "usuario" en la BBDD
                 DatabaseReference usuarioRef = database.getReference("usuarios/usuario");
 
 //                DatabaseReference myRef = usuarioRef.push();
 //                myRef.setValue(nuevoNombreUsuario + ";" + nuevaContraseñaEscrita);
 
-                // 3. Leer UNA SOLA VEZ los datos de Firebase
+                //  Leer una sola vez los datos de Firebase
                 usuarioRef.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {

@@ -161,17 +161,17 @@ public class MainActivity2 extends AppCompatActivity {
                         // ahora enseñamos los 3 primeros en pantalla (si existen)
                         if (lista.size() > 0) {
                             Usuario u1 = lista.get(0); // El primero de la lista (más puntos)
-                            ranking1.setText("1º " + u1.nombre + " - " + u1.puntuacion + " pts");
+                            ranking1.setText("1º " + u1.nombre + " - " + u1.puntuacion + " puntos");
                         }
 
                         if (lista.size() > 1) {
                             Usuario u2 = lista.get(1); // Segundo en puntos
-                            ranking2.setText("2º " + u2.nombre + " - " + u2.puntuacion + " pts");
+                            ranking2.setText("2º " + u2.nombre + " - " + u2.puntuacion + " puntos");
                         }
 
                         if (lista.size() > 2) {
                             Usuario u3 = lista.get(2); // Tercer puesto
-                            ranking3.setText("3º " + u3.nombre + " - " + u3.puntuacion + " pts");
+                            ranking3.setText("3º " + u3.nombre + " - " + u3.puntuacion + " puntos");
                         }
                     }
 
@@ -190,7 +190,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 
 
-        // 3. Poner el mensaje en pantalla
+        //  Poner el mensaje en pantalla
         if (nombreUsuario != null && !nombreUsuario.isEmpty()) {
             textView.setText("Bienvenido, " + nombreUsuario);
         } else {
