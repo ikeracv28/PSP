@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "CanicasPadre\\Program.cs",
               "ToolTip": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\Program.cs",
               "RelativeToolTip": "CanicasPadre\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T12:31:33.512Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "CanicasHijo\\Program.cs",
               "ToolTip": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\Program.cs",
               "RelativeToolTip": "CanicasHijo\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T12:30:49.858Z"
+              "WhenOpened": "2025-11-16T12:30:49.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "PSP_Pratica_CarreraHilos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T12:29:17.303Z"
+              "WhenOpened": "2025-11-16T12:29:17.303Z",
+              "EditorCaption": ""
             }
           ]
         }

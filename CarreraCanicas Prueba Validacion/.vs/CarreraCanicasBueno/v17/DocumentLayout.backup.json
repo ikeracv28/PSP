@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repositorio\\PSP\\CarreraCanicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FED1B3C-38F3-4901-ADAF-299AA75A11F9}|CanicasPadre\\CanicasPadre.csproj|c:\\repositorio\\psp\\carreracanicas\\canicaspadre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FED1B3C-38F3-4901-ADAF-299AA75A11F9}|CanicasPadre\\CanicasPadre.csproj|solutionrelative:canicaspadre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72ECBF27-DBE1-4BEE-A113-E29C1BE3A6D8}|CanicasHijos\\CanicasHijos.csproj|c:\\repositorio\\psp\\carreracanicas\\canicashijos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72ECBF27-DBE1-4BEE-A113-E29C1BE3A6D8}|CanicasHijos\\CanicasHijos.csproj|solutionrelative:canicashijos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repositorio\\PSP\\CarreraCanicas\\CanicasHijos\\Program.cs",
+              "RelativeDocumentMoniker": "CanicasHijos\\Program.cs",
+              "ToolTip": "C:\\repositorio\\PSP\\CarreraCanicas\\CanicasHijos\\Program.cs",
+              "RelativeToolTip": "CanicasHijos\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:05:25.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repositorio\\PSP\\CarreraCanicas\\CanicasPadre\\Program.cs",
+              "RelativeDocumentMoniker": "CanicasPadre\\Program.cs",
+              "ToolTip": "C:\\repositorio\\PSP\\CarreraCanicas\\CanicasPadre\\Program.cs",
+              "RelativeToolTip": "CanicasPadre\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:04:30.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
