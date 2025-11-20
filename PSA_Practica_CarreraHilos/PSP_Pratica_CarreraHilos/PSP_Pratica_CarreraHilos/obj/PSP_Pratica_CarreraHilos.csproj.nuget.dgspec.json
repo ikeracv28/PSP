@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
         "packagesPath": "C:\\Users\\ikera\\.nuget\\packages\\",
         "outputPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\obj\\",
+=======
+    "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
+        "projectName": "PSP_Pratica_CarreraHilos",
+        "projectPath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
+        "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\obj\\",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ikera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CAMPUSFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

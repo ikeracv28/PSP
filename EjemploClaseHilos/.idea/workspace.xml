@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main1.xml">
+        <config>
+          <theme>@style/Theme.EjemploClaseHilos</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+        <config>
+          <theme>@style/Theme.EjemploClaseHilos</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pagina_registro.xml">
+        <config>
+          <theme>@style/Theme.EjemploClaseHilos</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a9ea107-9584-487c-a4e3-b9c547351f4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/CopilotIndices/17.14.1231.31060/CodeChunks.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/CopilotIndices/17.14.1231.31060/SemanticSymbols.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/CopilotIndices/17.14.1368.60722/CodeChunks.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/CopilotIndices/17.14.1368.60722/SemanticSymbols.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/FileContentIndex/9041898b-daf1-46fc-97e2-a7855c8f97c5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/FileContentIndex/a7cbc46a-fd84-4610-b624-0812bc428b9f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/v17/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/EjemploClaseHilos/v17/workspaceFileList.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/ejemploclasehilos/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/Modelo/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/ejemploclasehilos/CopilotIndices/17.14.1368.60722/CodeChunks.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/ejemploclasehilos/CopilotIndices/17.14.1368.60722/SemanticSymbols.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/ejemploclasehilos/FileContentIndex/41a0bdc3-de62-40bc-83d1-781e544cd376.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/ejemploclasehilos/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/ejemploclasehilos/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/MainActivity1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/MainActivity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclasehilos/PaginaRegistro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pagina_registro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/ejemploclasehilos/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/FileContentIndex/8b8b0b77-0861-4cc3-8007-3f8a3d5678b2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/FileContentIndex/ae9509ff-b7d2-4692-a2fe-a66fef10488f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/FileContentIndex/e8cbc646-dd1e-4edb-a69b-1539d44e7ee3.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/PSP_Pratica_CarreraHilos/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/.vs/ProjectEvaluation/psp_pratica_carrerahilos.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/bin/Debug/net8.0/CanicasHijo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/CanicasHijo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/CanicasHijo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/CanicasHijo.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/CanicasHijo.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/CanicasHijo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/ref/CanicasHijo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/ref/CanicasHijo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/refint/CanicasHijo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/Debug/net8.0/refint/CanicasHijo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasHijo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/bin/Debug/net8.0/CanicasPadre.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/CanicasPadre.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/CanicasPadre.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/CanicasPadre.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/CanicasPadre.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/CanicasPadre.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/ref/CanicasPadre.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/ref/CanicasPadre.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/refint/CanicasPadre.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/Debug/net8.0/refint/CanicasPadre.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/CanicasPadre/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/Debug/net8.0/PSP_Pratica_CarreraHilos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/PSP_Pratica_CarreraHilos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/PSP_Pratica_CarreraHilos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/PSP_Pratica_CarreraHilos.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/PSP_Pratica_CarreraHilos.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PSA_Practica_CarreraHilos/PSP_Pratica_CarreraHilos/PSP_Pratica_CarreraHilos/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\CAMPUSFP\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EjemploClaseHilos" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ikeracv28&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ikeracv28/PSP.git&quot;,
+    &quot;accountId&quot;: &quot;32997dfb-991d-44fc-8bea-23e9c711e654&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34milAcPapnCJDc6VL2mIkEcYjs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Repositorio/PSP/EjemploClaseHilos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="android.template.220005864">
+      <recent name="com.example.ejemploclasehilos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="EjemploClaseHilos.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9ea107-9584-487c-a4e3-b9c547351f4d" name="Changes" comment="" />
+      <created>1761825296664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761825296664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.ejemploclasehilos">
+          <value>
+            <CheckInfo lastCheckTimestamp="1763626912364" />
+          </value>
+        </entry>
+        <entry key="com.example.ejemploclasehilos.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1763626912366" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

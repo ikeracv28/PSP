@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "nhAAkxbhiD0=",
   "success": true,
   "projectFilePath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\CanicasHijo.csproj",
+=======
+  "dgSpecHash": "3+IU5HCAFDI=",
+  "success": true,
+  "projectFilePath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\CanicasHijo.csproj",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
   "expectedPackageFiles": [],
   "logs": []
 }

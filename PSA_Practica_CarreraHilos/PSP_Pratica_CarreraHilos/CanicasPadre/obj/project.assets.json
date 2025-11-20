@@ -8,23 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ikera\\.nuget\\packages\\": {},
+    "C:\\Users\\CAMPUSFP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
       "projectName": "CanicasPadre",
       "projectPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
       "packagesPath": "C:\\Users\\ikera\\.nuget\\packages\\",
       "outputPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\obj\\",
+=======
+      "projectUniqueName": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
+      "projectName": "CanicasPadre",
+      "projectPath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\CanicasPadre.csproj",
+      "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\obj\\",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ikera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CAMPUSFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +80,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

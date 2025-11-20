@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\",
   "Documents": [
     {
@@ -13,6 +14,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PSP_Pratica_CarreraHilos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790E37AD-CAE5-44D1-80B7-1703C9BDAF6A}|CanicasPadre\\CanicasPadre.csproj|c:\\repositorio\\psp\\psa_practica_carrerahilos\\psp_pratica_carrerahilos\\canicaspadre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790E37AD-CAE5-44D1-80B7-1703C9BDAF6A}|CanicasPadre\\CanicasPadre.csproj|solutionrelative:canicaspadre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DA7468-1FCC-4944-B87B-9FAB6B0D18A9}|CanicasHijo\\CanicasHijo.csproj|c:\\repositorio\\psp\\psa_practica_carrerahilos\\psp_pratica_carrerahilos\\canicashijo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DA7468-1FCC-4944-B87B-9FAB6B0D18A9}|CanicasHijo\\CanicasHijo.csproj|solutionrelative:canicashijo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E09B04-CE04-4942-9889-06503476FFE5}|PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj|c:\\repositorio\\psp\\psa_practica_carrerahilos\\psp_pratica_carrerahilos\\psp_pratica_carrerahilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E09B04-CE04-4942-9889-06503476FFE5}|PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj|solutionrelative:psp_pratica_carrerahilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\Program.cs",
               "RelativeDocumentMoniker": "CanicasPadre\\Program.cs",
               "ToolTip": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\Program.cs",
               "RelativeToolTip": "CanicasPadre\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAgwDwAAABUAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\Program.cs",
+              "RelativeDocumentMoniker": "CanicasPadre\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasPadre\\Program.cs",
+              "RelativeToolTip": "CanicasPadre\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T12:31:33.512Z",
               "EditorCaption": ""
@@ -41,11 +65,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\Program.cs",
               "RelativeDocumentMoniker": "CanicasHijo\\Program.cs",
               "ToolTip": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\Program.cs",
               "RelativeToolTip": "CanicasHijo\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwEEAAAAFAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\Program.cs",
+              "RelativeDocumentMoniker": "CanicasHijo\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\CanicasHijo\\Program.cs",
+              "RelativeToolTip": "CanicasHijo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T12:30:49.858Z"
             },
@@ -53,9 +85,15 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\Program.cs",
               "RelativeDocumentMoniker": "PSP_Pratica_CarreraHilos\\Program.cs",
               "ToolTip": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\Program.cs",
+              "RelativeDocumentMoniker": "PSP_Pratica_CarreraHilos\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\Program.cs",
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
               "RelativeToolTip": "PSP_Pratica_CarreraHilos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

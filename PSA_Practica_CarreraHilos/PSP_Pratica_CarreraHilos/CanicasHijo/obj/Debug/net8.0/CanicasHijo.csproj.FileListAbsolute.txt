@@ -12,6 +12,7 @@ C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\ob
 C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.pdb
 C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.genruntimeconfig.cache
 C:\repositorio\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\ref\CanicasHijo.dll
+<<<<<<< HEAD
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.deps.json
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.runtimeconfig.json
@@ -27,3 +28,20 @@ C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHij
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.pdb
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.genruntimeconfig.cache
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\ref\CanicasHijo.dll
+=======
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.deps.json
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.runtimeconfig.json
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.dll
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.pdb
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.AssemblyInfoInputs.cache
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.AssemblyInfo.cs
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.sourcelink.json
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.dll
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\refint\CanicasHijo.dll
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.pdb
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\CanicasHijo.genruntimeconfig.cache
+C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\obj\Debug\net8.0\ref\CanicasHijo.dll
+>>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
