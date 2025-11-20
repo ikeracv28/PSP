@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "ViqaDriJHnk=",
-  "success": true,
-  "projectFilePath": "C:\\repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
-=======
   "dgSpecHash": "wf2FR6ue5Ps=",
   "success": true,
   "projectFilePath": "C:\\Repositorio\\PSP\\PSA_Practica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos\\PSP_Pratica_CarreraHilos.csproj",
->>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
   "expectedPackageFiles": [],
   "logs": []
 }

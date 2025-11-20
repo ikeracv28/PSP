@@ -29,19 +29,4 @@ C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPad
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.genruntimeconfig.cache
 C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\ref\CanicasPadre.dll
 =======
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\bin\Debug\net8.0\CanicasPadre.exe
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\bin\Debug\net8.0\CanicasPadre.deps.json
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\bin\Debug\net8.0\CanicasPadre.runtimeconfig.json
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\bin\Debug\net8.0\CanicasPadre.dll
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\bin\Debug\net8.0\CanicasPadre.pdb
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.AssemblyInfoInputs.cache
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.AssemblyInfo.cs
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.csproj.CoreCompileInputs.cache
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.sourcelink.json
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.dll
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\refint\CanicasPadre.dll
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.pdb
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\CanicasPadre.genruntimeconfig.cache
-C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasPadre\obj\Debug\net8.0\ref\CanicasPadre.dll
 >>>>>>> 56bd556 (subida de proyecto moviles despues de apto)

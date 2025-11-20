@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PSP_Pratica_CarreraHilos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2834822d5df8243fa065671b70559c4debf5c30")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a196d853d3075fcfa90164b626ee9219ac0993")]
->>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b211da02a1774dee602959829b9006fa9a08af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PSP_Pratica_CarreraHilos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PSP_Pratica_CarreraHilos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

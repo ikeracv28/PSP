@@ -14,11 +14,8 @@ namespace CanicasPadre
             int canicasPorPista = 3;
 
             // Archivo .exe del proyecto hijo
-<<<<<<< HEAD
             string exeHijo = @"C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe";
-=======
-            string exeHijo = @"C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\CanicasHijo\bin\Debug\net8.0\CanicasHijo.exe";
->>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
+
 
             // Aquí guardaremos TODOS los resultados
             List<Resultado> lista = new List<Resultado>();

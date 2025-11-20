@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanicasPadre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f587b96e7d234b2b3396b08fd7822f1f0d92b4")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a196d853d3075fcfa90164b626ee9219ac0993")]
->>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b211da02a1774dee602959829b9006fa9a08af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanicasPadre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanicasPadre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

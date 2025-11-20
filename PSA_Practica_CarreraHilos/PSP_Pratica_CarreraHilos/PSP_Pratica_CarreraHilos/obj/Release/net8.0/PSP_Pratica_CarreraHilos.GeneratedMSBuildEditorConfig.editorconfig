@@ -8,11 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PSP_Pratica_CarreraHilos
-<<<<<<< HEAD
-build_property.ProjectDir = C:\repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\PSP_Pratica_CarreraHilos\
-=======
 build_property.ProjectDir = C:\Repositorio\PSP\PSA_Practica_CarreraHilos\PSP_Pratica_CarreraHilos\PSP_Pratica_CarreraHilos\
->>>>>>> 56bd556 (subida de proyecto moviles despues de apto)
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
