@@ -80,14 +80,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ranking2" />
 
-    <TextView
-        android:id="@+id/mostrarTextoModificacion"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30dp"
-        android:layout_marginBottom="20dp"
-        android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/textView3"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="173dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

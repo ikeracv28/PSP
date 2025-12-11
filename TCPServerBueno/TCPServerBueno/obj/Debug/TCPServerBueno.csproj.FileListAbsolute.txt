@@ -1,0 +1,8 @@
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\bin\Debug\TCPServerBueno.exe.config
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\bin\Debug\TCPServerBueno.exe
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\bin\Debug\TCPServerBueno.pdb
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\obj\Debug\TCPServerBueno.csproj.AssemblyReference.cache
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\obj\Debug\TCPServerBueno.csproj.CoreCompileInputs.cache
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\obj\Debug\TCPServerBueno.exe
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\obj\Debug\TCPServerBueno.pdb
+C:\repositorio\PSP\TCPServerBueno\TCPServerBueno\obj\Debug\TCPServerBueno.exe.config
